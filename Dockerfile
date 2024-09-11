@@ -1,4 +1,3 @@
-
 FROM node:18 As Development
 
 # Set the working directory inside the container
