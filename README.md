@@ -94,8 +94,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/nike_landing_page.git
-cd nike_landing_page
+git clone [https://github.com/prasantkumardas/Nike-landing-app.git]
+cd Nike-landing-app
 ```
 
 **Installation**
@@ -106,15 +106,17 @@ Install the project dependencies using npm:
 npm install
 ```
 
+Running the Project 
 
-**Running the Project**
+npm run dev
 
-```bash
-npm start
-```
+Open [http://localhost:5173] in your browser to view the project.
 
-Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+Build the Prod Project:
 
+npm run build
+
+Visit http://localhost:80 to view the project.
 ## <a name="snippets">🕸️ Snippets</a>
 
 <details>
